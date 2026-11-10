@@ -1,0 +1,3 @@
+Hello!
+This is a sample file.
+Testing file handling using C system calls.
